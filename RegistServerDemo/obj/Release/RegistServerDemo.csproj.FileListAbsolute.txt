@@ -1,0 +1,6 @@
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\bin\Release\RegistServerDemo.exe.config
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\bin\Release\RegistServerDemo.exe
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\bin\Release\RegistServerDemo.pdb
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\obj\Release\RegistServerDemo.csproj.CoreCompileInputs.cache
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\obj\Release\RegistServerDemo.exe
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\obj\Release\RegistServerDemo.pdb

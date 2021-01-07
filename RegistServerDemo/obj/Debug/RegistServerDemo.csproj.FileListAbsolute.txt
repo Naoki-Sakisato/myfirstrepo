@@ -1,0 +1,13 @@
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\bin\Debug\RegistServerDemo.exe.config
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\bin\Debug\RegistServerDemo.exe
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\bin\Debug\RegistServerDemo.pdb
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\obj\Debug\RegistServerDemo.csproj.CoreCompileInputs.cache
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\obj\Debug\RegistServerDemo.exe
+D:\Users\sakisato\source\repos\RegistServerDemo\RegistServerDemo\obj\Debug\RegistServerDemo.pdb
+D:\Users\直己\source\repos\RegistServerDemo\RegistServerDemo\bin\Debug\RegistServerDemo.exe.config
+D:\Users\直己\source\repos\RegistServerDemo\RegistServerDemo\bin\Debug\RegistServerDemo.exe
+D:\Users\直己\source\repos\RegistServerDemo\RegistServerDemo\bin\Debug\RegistServerDemo.pdb
+D:\Users\直己\source\repos\RegistServerDemo\RegistServerDemo\obj\Debug\RegistServerDemo.csprojAssemblyReference.cache
+D:\Users\直己\source\repos\RegistServerDemo\RegistServerDemo\obj\Debug\RegistServerDemo.csproj.CoreCompileInputs.cache
+D:\Users\直己\source\repos\RegistServerDemo\RegistServerDemo\obj\Debug\RegistServerDemo.exe
+D:\Users\直己\source\repos\RegistServerDemo\RegistServerDemo\obj\Debug\RegistServerDemo.pdb
